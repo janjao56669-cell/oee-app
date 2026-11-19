@@ -1,0 +1,14 @@
+{
+  "appId": "com.tsgp.oee",
+  "appName": "OEE",
+  "webDir": "www",
+  "server": {
+    "url": "https://oee-web.sasatornua.workers.dev/",
+    "errorPath": "error.html",
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#12181D"
+  }
+}
